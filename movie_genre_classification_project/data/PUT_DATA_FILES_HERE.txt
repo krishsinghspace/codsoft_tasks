@@ -1,5 +1,0 @@
-Copy these files from the supplied codesoft.zip into this folder:
-- train_data.txt
-- test_data_solution.txt
-Optional:
-- test_data.txt
