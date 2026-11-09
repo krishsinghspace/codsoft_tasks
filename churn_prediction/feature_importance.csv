@@ -1,0 +1,11 @@
+,0
+Age,0.1227
+NumOfProducts,0.1152
+IsActiveMember,0.0335
+Balance,0.027
+Geography,0.0175
+Gender,0.0074
+CreditScore,0.0026
+EstimatedSalary,0.0009
+HasCrCard,-0.0002
+Tenure,-0.0003
